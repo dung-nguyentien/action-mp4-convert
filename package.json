@@ -1,0 +1,25 @@
+{
+  "name": "@action-mp4-convert/action-mp4-convert",
+  "version": "1.0.0",
+  "description": "For nexrender",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "ffmpeg-static": "^2.7.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pekubu/action-mp4-convert.git"
+  },
+  "author": "pekubu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pekubu/action-mp4-convert/issues"
+  },
+  "homepage": "https://github.com/pekubu/action-mp4-convert#readme"
+}
